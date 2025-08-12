@@ -63,7 +63,7 @@
             <div class="card-body">
               <!-- Logo -->
               <div class="app-brand justify-content-center mb-6">
-                <a href="index.html" class="app-brand-link gap-2">
+                <a href="../index.php" class="app-brand-link gap-2">
                   <span class="app-brand-logo demo">
                     <span class="text-primary">
                       <svg
@@ -122,7 +122,7 @@
               <h4 class="mb-1">Adventure starts here 🚀</h4>
               <p class="mb-6">Make your app management easy and fun!</p>
 
-              <form id="formAuthentication" class="mb-6" action="index.html">
+              <form id="formAuthentication" class="mb-6" action="../index.php">
                 <div class="mb-6">
                   <label for="username" class="form-label">Username</label>
                   <input
@@ -164,7 +164,7 @@
 
               <p class="text-center">
                 <span>Already have an account?</span>
-                <a href="auth-login-basic.html">
+                <a href="auth-login-basic.php">
                   <span>Sign in instead</span>
                 </a>
               </p>
